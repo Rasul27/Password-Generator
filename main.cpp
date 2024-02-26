@@ -59,7 +59,7 @@ int main() {
         password += c;
     }
 
-   е
+   
     random_shuffle(password.begin(), password.end());
 
     cout << "Your Password is: " << password << endl;
